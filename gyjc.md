@@ -6,7 +6,7 @@
 
    注册钱包送￥0.99
 
-   套餐：公益1 1G/1天  公益3 7G/3天
+   套餐：公益1 1G/1天￥0.01  公益3 7G/3天￥0.03
 
 2. [Getfree.Cloud](https://getfree.cloud/)
 3. [iKuuu VPN](https://ikuuu.co/)
