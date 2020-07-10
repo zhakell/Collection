@@ -10,6 +10,5 @@
 
 2. [Getfree.Cloud](https://getfree.cloud/)
 3. [iKuuu VPN](https://ikuuu.co/)
-4. [白嫖云](https://baipiaoyun.xyz/)
-5. [woocloud](https://woocloud.icu/)
-6. [数码魅力](http://www.111003.ml/)
+4. [woocloud](https://woocloud.icu/)
+5. [数码魅力](http://www.111003.ml/)
