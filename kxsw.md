@@ -13,16 +13,11 @@
 | [v2rayNG](https://github.com/2dust/v2rayNG)                  | Android                                                      | ss,vmess                  |
 | [Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5)       | Windows,macOS,Linux                                          | ss,ssr,snell,vmess,trojan |
 | [Qv2ray](https://github.com/Qv2ray/Qv2ray)                   | Windows,macOS,Linux                                          | ss,ssr,vmess,trojan       |
-| [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg) | Windows,macOS                                                | ss,snell,vmess,trojan     |
-| [Clash for Android](https://github.com/Kr328/ClashForAndroid) | Android                                                      | ss,snell,vmess,trojan     |
-| ClashR for Windows[[1]](https://github.com/BROBIRD/clash)[[2]](https://github.com/frainzy1477/clashrdev) | windows                                                      | ss,ssr,snell,vmess,trojan |
-| [ClashR for Android](https://github.com/BROBIRD/ClashForAndroid) | Android                                                      | ss,ssr,snell,vmess,trojan |
-| [ClashX](https://github.com/yichengchen/clashX)              | macOS                                                        | ss,snell,vmess,trojan     |
-| [ClashXR](https://github.com/WhoJave/clashX)                 | macOS                                                        | ss,ssr,snell,vmess,trojan |
+| [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg) | Windows,macOS                                                | ss,ssr,snell,vmess,trojan     |
+| [Clash for Android](https://github.com/Kr328/ClashForAndroid) | Android                                                      | ss,ssr,snell,vmess,trojan     |
+| [ClashX](https://github.com/yichengchen/clashX)              | macOS                                                        | ss,ssr,snell,vmess,trojan     |
 | [Netch](https://github.com/netchx/Netch)                     | Windows                                                      | ss,ssr,vmess,trojan       |
-| [ClashA](https://github.com/ccg2018/ClashA)                  | Android                                                      | ss,snell,vmess,trojan     |
-| [ClashAR](https://github.com/WhoJave/ClashA)                 | Android                                                      | ss,ssr,snell,vmess,trojan |
-| [Clashy](https://github.com/SpongeNobody/Clashy)             | Windows,macOS,Ubuntu                                         | ss,snell,vmess,trojan     |
+| [Clashy](https://github.com/SpongeNobody/Clashy)             | Windows,macOS,Ubuntu                                         | ss,ssr,snell,vmess,trojan     |
 | Surfboard                                                    | Android                                                      | ss,vmess                  |
 | Surge 4                                                      | iOS                                                          | ss,snell,vmess            |
 | Surge for Mac                                                | macOS                                                        | ss,snell,vmess            |
@@ -40,4 +35,4 @@
 
 
 
-> 注：ClashA及ClashAR目前仅进行维护，不再开发新功能，可使用Clash(R) for Android。
+> 注：Clash内核开发者近日merge了add ssr support 的pr，接下来的版本即将支持ssr，其余使用clash内核的客户端亦即将支持ssr，其中clash for Windows已先放出一个支持ssr的版本。[支持ssr的clash预览版下载地址](https://http://tmpclashpremiumbindary.cf/)
