@@ -5,7 +5,7 @@
 
 
 | 客户端                                                       | 平台                                                         | 支持协议                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows) | Windows                                                      | ss                        |
 | ShadowssocksRR                                               | [Windows](https://github.com/shadowsocksrr/shadowsocksr-csharp),[Android](https://github.com/shadowsocksrr/shadowsocksr-android) | ssr                       |
 | [SSRR](https://github.com/Anankke/SSRR-Windows)              | Windows                                                      | ssr                       |
@@ -32,10 +32,4 @@
 | ShadowsocksD                                                 | [Windows](https://github.com/TheCGDF/SSD-Windows),[Android](https://github.com/TheCGDF/SSD-Android) | ss                        |
 | Loon                                                         | iOS                                                          | ss,ssr,vmess              |
 
-
-
-> 注：
->
-> 1. Clash内核开发者近日merge了add ssr support 的pr，接下来的版本即将支持ssr，其余使用clash内核的客户端亦即将支持ssr，其中clash for Windows已先放出一个支持ssr的版本。[支持ssr的clash预览版下载地址](https://http://tmpclashpremiumbindary.cf/)
-> 2. 用户数较少的客户端不在以上行列，此表只列举主流客户端。
-> 3. Trojan-Qt5已被作者删库，最后一个版本为v1.4.0。备份库：https://github.com/Trojan-Qt5-Backup/Trojan-Qt5
+> 注：更新于2020.9.26
