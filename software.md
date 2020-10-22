@@ -33,10 +33,10 @@
 ## 手机软件（Android）
 1. 两步验证器：Microsoft Authenticator / Google 身份验证器 / Authy
 2. 密码管理：Keepass2Android
-3. 自动系列：Auto tool & Auto.js
-4. 安卓虚拟机：VMOS
+3. 自动系列：Auto tool & [Auto.js](https://www.autojs.org/)
+4. 安卓虚拟机：[VMOS](https://www.vmos.cn/)
 5. 拍照扫描：Office Lens
 6. 办公设计：Office
 7. 手机清理：清浊
 8. 文件管理器：ES文件浏览器
-9. 阅读：搜书大师 / 阅读 3.0 & 2.0
+9. 阅读：[搜书大师](https://www.soushu.site/) / 阅读 [3.0](https://github.com/gedoor/legado) & [2.0](https://github.com/gedoor/MyBookshelf)
