@@ -13,7 +13,7 @@
 11. 视频下载：[you-get](https://github.com/soimort/you-get) / [youtube-dl](https://github.com/ytdl-org/youtube-dl) / [Annie](https://github.com/iawia002/annie)
 12. BT下载：qBittorrent / BitComet
 13. 视频录制：Bandicam
-14. 卸载工具：Geek Uninstaller / UninstallTool
+14. 卸载工具：[Geek Uninstaller](https://geekuninstaller.com/) / [UninstallTool](https://crystalidea.com/uninstall-tool)
 15. 注册表清理：CCleaner
 16. 文件搜索：[Everything](https://www.voidtools.com/) & [Listary](https://www.listary.com/download/beta/listary6/ListaryInstaller.exe) / Wox
 17. PDF阅读器：Adobe Acrobat
