@@ -29,3 +29,14 @@
 27. 微软工具：[PowerToys](https://github.com/microsoft/PowerToys)
 28. 思维导图：XMind
 29. 密码管理：[Keepass](https://keepass.info/)
+
+## 手机软件（Android）
+1. 两步验证器：Microsoft Authenticator / Google 身份验证器 / Authy
+2. 密码管理：Keepass2Android
+3. 自动系列：Auto tool & Auto.js
+4. 安卓虚拟机：VMOS
+5. 拍照扫描：Office Lens
+6. 办公设计：Office
+7. 手机清理：清浊
+8. 文件管理器：ES文件浏览器
+9. 阅读：搜书大师 / 阅读 3.0 & 2.0
