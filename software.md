@@ -2,7 +2,7 @@
 
 1. 待办清单：Microsoft To Do
 2. 办公设计：Microsoft 365 & Office Tab
-3. 浏览器：Microsoft Edge / Google Chrome & Mozilla Firefox
+3. 浏览器：Microsoft Edge & Mozilla Firefox
 4. 截图：[Snipaste](https://zh.snipaste.com/) & [PicPick](https://picpick.app/) / [FastStone Capture](https://www.faststone.org/FSCaptureDetail.htm)
 5. Gif截图：[Screen2Gif](https://github.com/NickeManarin/ScreenToGif)
 6. 视频播放：Potplayer
@@ -29,6 +29,7 @@
 27. 微软工具：[PowerToys](https://github.com/microsoft/PowerToys)
 28. 思维导图：XMind
 29. 密码管理：[Keepass](https://keepass.info/)
+30. 图床：PicGo / Aragon
 
 ## 手机软件（Android）
 1. 两步验证器：Microsoft Authenticator / Google 身份验证器 / Authy
@@ -40,3 +41,15 @@
 7. 手机清理：清浊
 8. 文件管理器：ES文件浏览器
 9. 阅读：[搜书大师](https://www.soushu.site/) / 阅读 [3.0](https://github.com/gedoor/legado) & [2.0](https://github.com/gedoor/MyBookshelf)
+
+
+待加入未分类软件：
+1. Air Explorer Pro
+2. Rainmeter
+3. Capture
+4. TrafficMonitor
+5. ContextMenuManager
+6. Dism++
+7. Wox
+8. YesPlayMusic
+9. ZY-Player
